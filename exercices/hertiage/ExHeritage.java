@@ -13,30 +13,14 @@
 
 package cours_exercices.exercices.hertiage;
 
-// Classe Cercle
-    // Propriete
-    
-    // Constructeur
-    
-    // Getters
-    
-    // Setters
-    
-    // Methodes
-
-// Classe Cylindre
-    // Propriete
-    
-    // Constructeur
-    
-    // Getters
-    
-    // Setters
-    
-    // Methode
-
 // Classe principale
 public class ExHeritage {
     public static void main(String[] args) {
+        Cercle cercle1 = new Cercle(3.2);
+        System.out.println("La surface du cercle est de " + cercle1.surface() + " et son perimetre est de " + cercle1.perimetre());
+
+        Cylindre cylindre1 = new Cylindre(4.6, 7.5);
+        System.out.println("Le rayon du Cylindre est de " + cylindre1.rayon + " et sa hauteur est de " + cylindre1.hauteur);
+        System.out.println("Le volume du Cylindre est de " + cylindre1.volume());
     }
 }

@@ -19,17 +19,15 @@
 
 package cours_exercices.exercices.abstraction;
 
-// Classe abstraite
-
-// Classe Anglais
-
-// Classe Italien
-
-// Classe Espagnol
-
 // Classe principale
 public class ExAbstractionPolymorphisme {
         public static void main(String[] args) {
-            // Polymorphisme
-    }
+            Italien italien = new Italien();
+            Anglais anglais = new Anglais();
+            Espagnol espagnol = new Espagnol();
+
+            System.out.println(italien.traduction());
+            System.out.println(anglais.traduction());
+            System.out.println(espagnol.traduction());
+        }
 }

@@ -6,6 +6,8 @@ package cours_exercices.cours;
 
 // Classe abstraite Vehicule
 // car on declare une methode abstraite dans la classe
+public abstract class Vehicule{
+
     // Attribut
     
     // Methode abstraite
@@ -15,16 +17,22 @@ package cours_exercices.cours;
     // Methode concrete qui ne sera pas executer
     // sur la classe Vehicule mais sur une classe
     // concrete (Voiture ou Camion)
-
+}
 // Classe Voiture qui herite de la classe Vehicule
+public class Voiture extends Vehicule{
+
     // Constructeur
     
     // Définition de la methode rouler pour la clasee Voiture
+}
 
 // Classe Camion qui herite de la classe Vehicule
+public class Camion extends Vehicule{
+
     // Constructeur
 	
     // Definition de la methode rouler pour la clasee Voiture
+}
 
 // Classe principale
 public class AbstractionPolymorphisme {
