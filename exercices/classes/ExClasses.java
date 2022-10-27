@@ -12,22 +12,23 @@
 
 package cours_exercices.exercices.classes;
 
-// Classe voiture
-    // Proprietes
-    
-    // Getters
-    
-    // Setters
-    
-    // Constructeurs
-    
-    // Methodes de la classe
+
 
 // Classe principale
 public class ExClasses {
     public static void main(String[] args) {
-       // Definitions des onjets
+       // Definitions des objets
+       Voiture peugeot206 = new Voiture(1, "206", "Peugeot", 180, 0, true);
+       Voiture audiA3 = new Voiture(2, "A3", "Audi", 240, 0, false);
+       Voiture nissanMicra = new Voiture(3, "Micra", "Nissan", 220, 80, true);
        
        // Utilisation des objets
+        audiA3.demarrer();
+        peugeot206.rouler();
+        nissanMicra.stopper();
+
+        audiA3.showInfos();
+        peugeot206.showInfos();
+        nissanMicra.showInfos();
     }
 }
