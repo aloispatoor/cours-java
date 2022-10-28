@@ -1,4 +1,4 @@
-package cours_exercices.exercices.hertiage;
+package exercices.hertiage;
 
 // Classe Cercle
 public class Cercle{
@@ -18,7 +18,7 @@ public class Cercle{
     // Setters
     public double setRayon(double rayon){
         this.rayon = rayon;
-        return this;
+        return this.rayon;
     }
     
     // Methodes

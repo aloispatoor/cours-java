@@ -17,7 +17,7 @@
  * Creer une objet de la classe langue via le polymorphisme et appeler la methode traductionCommentCaVa().
  */
 
-package cours_exercices.exercices.abstraction;
+package exercices.abstraction;
 
 // Classe principale
 public class ExAbstractionPolymorphisme {

@@ -2,7 +2,7 @@
  * Exemple sur l'abstraction et le polymorphisme
  */
 
-package cours_exercices.cours;
+package cours;
 
 // Classe abstraite Vehicule
 // car on declare une methode abstraite dans la classe

@@ -8,7 +8,7 @@
  * indiquer un message d'erreur si le numero de mois n'est pas compris entre 1 et 12.
  */
 
-package cours_exercices.exercices.conditions;
+package exercices.conditions;
 
 // Classe principale
 

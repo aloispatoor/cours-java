@@ -2,7 +2,7 @@
  * Exemple sur les classes
  */
 
-package cours_exercices.cours;
+package cours;
 
 // Definition d'une classe avec visibilite limitee au package
 class Truc{

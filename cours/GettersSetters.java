@@ -2,7 +2,7 @@
  * Exemple sur les getters et les setters
  */
 
-package cours_exercices.cours;
+package cours;
 
 // Classe Velo
     // Attirbut

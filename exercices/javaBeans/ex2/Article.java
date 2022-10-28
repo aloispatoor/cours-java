@@ -5,7 +5,7 @@
  * numero, libelle
  */
 
-package cours_exercices.exercices.javaBeans.ex2;
+package exercices.javaBeans.ex2;
 
 // Import de Serializable pour creer un JavaBean
 

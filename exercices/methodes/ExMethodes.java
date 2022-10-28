@@ -10,7 +10,7 @@
  * fourni en argument et qui utilise la fonction cube. 
  */
 
-package cours_exercices.exercices.methodes;
+package exercices.methodes;
 
 // Classe principale
 public class ExMethodes {

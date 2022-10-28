@@ -1,4 +1,4 @@
-package cours_exercices.exercices.hertiage;
+package exercices.hertiage;
 
 // Classe Cylindre
 public class Cylindre extends Cercle{
@@ -19,7 +19,7 @@ public class Cylindre extends Cercle{
     // Setters
     public double setHauteur(double hauteur){
         this.hauteur = hauteur;
-        return this;
+        return this.hauteur;
     }
     
     // Methode

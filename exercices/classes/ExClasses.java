@@ -10,7 +10,7 @@
  * Faire une methode infos qui donnera les informations sur l'objet et son etat.
  */
 
-package cours_exercices.exercices.classes;
+package exercices.classes;
 
 
 

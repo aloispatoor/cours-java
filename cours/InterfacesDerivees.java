@@ -2,7 +2,7 @@
  * Exemple sur les interfaces derivees
  */
 
-package cours_exercices.cours;
+package cours;
 
 // Interface avec methode default
 

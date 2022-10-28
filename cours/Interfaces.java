@@ -2,7 +2,7 @@
  * Exemple sur les interfaces
  */
 
-package cours_exercices.cours;
+package cours;
 
 // Interface machine a laver
 public interface IMachineALaver{
@@ -30,7 +30,7 @@ public class MachineALaver implements IMachineALaver{
     // Setters
     public boolean setIsOpen(boolean isOpen){
         this.isOpen = isOpen;
-        return this;
+        return this.isOpen;
     }
     
     // Methodes implementant l'interface
@@ -58,7 +58,7 @@ public class Interfaces {
 
         MachineALaver whirpool = new MachineALaver();
         whirpool.chargeLinge(40);
-        whirpool.lave();
+        whirpool.laver();
         whirpool.dechargeLinge();
     }
 }

@@ -1,7 +1,7 @@
 /**
  * Exercice sur les condtions
  */
-package cours_exercices.cours;
+package cours;
 
 // Classe principale
 public class Conditions {

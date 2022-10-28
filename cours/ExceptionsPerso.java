@@ -2,7 +2,7 @@
  * Exemple d'exception personnalisee
  */
 
-package cours_exercices.cours;
+package cours;
 
 // Classe ExceptionDecrochage.
 // Exception Personnalisee heritant de la classe Exception.

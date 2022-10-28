@@ -10,7 +10,7 @@
  * Ecrire une classe principale appelant
  */
 
-package cours_exercices.exercices.interfaces;
+package exercices.interfaces;
 
 // Classe principale
 public class ExInterfaces {

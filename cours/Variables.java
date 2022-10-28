@@ -2,7 +2,7 @@
  * Exemple sur les variables
  */
 
-package cours_exercices.cours;
+package cours;
 import java.util.Scanner;
 
 // Classe principale

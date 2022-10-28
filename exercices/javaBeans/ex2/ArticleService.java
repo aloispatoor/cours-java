@@ -6,7 +6,7 @@
  * Cette methode doit afficher le libelle et le numero de l'article.
  */
 
-package cours_exercices.exercices.javaBeans.ex2;
+package exercices.javaBeans.ex2;
 
 // Classe ArticleService
 public class ArticleService {

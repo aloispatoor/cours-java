@@ -2,7 +2,7 @@
  * Exemple sur les collections
  */
 
-package cours_exercices.cours;
+package cours;
 
 // Classe principale
 public class Collections {

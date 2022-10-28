@@ -2,7 +2,7 @@
  * Exemple sur les boucles, continue et break
  */
 
-package cours_exercices.cours;
+package cours;
 
 // Classe principale
 public class Boucles {

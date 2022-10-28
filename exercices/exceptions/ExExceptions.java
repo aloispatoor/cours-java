@@ -13,7 +13,7 @@
  * NB: le programme doit gerer les exceptions au niveau de la saisie des donnees de l'utilisateur
  */
 
-package cours_exercices.exercices.exceptions;
+package exercices.exceptions;
 
 // Classe principale
 public class ExExceptions {

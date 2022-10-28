@@ -11,7 +11,7 @@
  * (rappel : volume d'un cylindre = surface de section x hauteur).
  */
 
-package cours_exercices.exercices.hertiage;
+package exercices.hertiage;
 
 // Classe principale
 public class ExHeritage {

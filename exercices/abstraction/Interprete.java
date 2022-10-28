@@ -1,4 +1,4 @@
-package cours_exercices.exercices.abstraction;
+package exercices.abstraction;
 
 public abstract class Interprete {
     

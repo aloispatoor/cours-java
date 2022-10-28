@@ -2,7 +2,7 @@
  * Exemple sur les exceptions
  */
 
-package cours_exercices.cours;
+package cours;
 
 // Classe Tableau
     // Creation d'un tableau avec 3 elements

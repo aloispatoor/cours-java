@@ -1,4 +1,4 @@
-package cours_exercices.exercices.interfaces;
+package exercices.interfaces;
 
 public class Rectangle implements IFigureGeometrique {
     private double longueur;

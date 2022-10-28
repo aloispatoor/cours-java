@@ -7,7 +7,7 @@
  * 3. Afficher les tables de multiplication pour les nombres de 5 a 10 inclus.
  */
 
-package cours_exercices.exercices.boucles;
+package exercices.boucles;
 
 // Classe principale
 public class ExBoucles {

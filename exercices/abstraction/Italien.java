@@ -1,4 +1,4 @@
-package cours_exercices.exercices.abstraction;
+package exercices.abstraction;
 
 public class Italien extends Interprete {
     private String nomLangue = "Italien";

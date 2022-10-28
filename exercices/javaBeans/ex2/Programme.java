@@ -7,7 +7,7 @@
  * Afficher les informations sur l'article et utilisatnt la methode creerArticle de la classe ArticleService.
  */
 
-package cours_exercices.exercices.javaBeans.ex2;
+package exercices.javaBeans.ex2;
 
 // Classe principale
 public class Programme {

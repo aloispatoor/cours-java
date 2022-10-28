@@ -11,7 +11,7 @@
  * Supprimer un element de la liste et reafficher la liste
  */
 
-package cours_exercices.exercices.collection;
+package exercices.collection;
 
 // Classe principale
 public class ExCollection {

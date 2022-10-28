@@ -2,7 +2,7 @@
  * Exemple sur l'iteration de collection
  */
 
-package cours_exercices.cours;
+package cours;
 
 // Classe principale
 public class IterationsCollections {

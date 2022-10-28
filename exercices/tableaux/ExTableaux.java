@@ -9,7 +9,7 @@
 * 6. Afficher le tableau apres l'operation d'insertion.
 */
  
-package cours_exercices.exercices.tableaux;
+package exercices.tableaux;
 
 // Classe principale
 public class ExTableaux {

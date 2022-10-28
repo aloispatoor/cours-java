@@ -2,7 +2,7 @@
  * Exemple sur les surcharges
  */
 
-package cours_exercices.cours;
+package cours;
 
 // Classe Imprimante avec surcharge de la methode imprimer()
 

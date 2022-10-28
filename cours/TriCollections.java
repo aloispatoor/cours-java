@@ -2,7 +2,7 @@
  * Exemple sur le tri des collections
  */
 
-package cours_exercices.cours;
+package cours;
 
 // Classe Planete (objets de cette classe a trier de facon personalisee)
     // Attributs

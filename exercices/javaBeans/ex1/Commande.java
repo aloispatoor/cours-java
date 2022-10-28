@@ -5,7 +5,7 @@
  * id, clientId, libelle, prixUnitaire, nombreDeJours, tva, etats, type, notes
  */
 
-package cours_exercices.exercices.javaBeans.ex1;
+package exercices.javaBeans.ex1;
 
 // Import de Serializable pour creer un JavaBean
 

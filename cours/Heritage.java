@@ -2,7 +2,7 @@
  * Exemple sur l'heritage
  */
 
-package cours_exercices.cours;
+package cours;
 
 // Classe Compte simple
 public class Compte{
@@ -26,7 +26,7 @@ public class Compte{
     // Setters
     public int setMontant(int montant){
         this.montant = montant;
-        return this;
+        return this.montant;
     }
 }
 
@@ -35,7 +35,7 @@ public class CompteBancaire extends Compte{
 
     public void afficheCompteBancaire(){
         afficheCompte();
-        System.out.println(this.montant());
+        System.out.println(this.montant);
     }
 
     @Override

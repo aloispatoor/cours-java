@@ -1,4 +1,4 @@
-package cours_exercices.exercices.classes;
+package exercices.classes;
 
 // Classe voiture
 public class Voiture {
@@ -34,27 +34,27 @@ public class Voiture {
     // Setters
     public int setId(int id){
         this.id = id;
-        return this;
+        return this.id;
     }
     public int setVitesseMax(int vitesseMax){
         this.vitesseMax = vitesseMax;
-        return this;
+        return this.vitesseMax;
     }
     public int setSpeed(int speed){
         this.speed = speed;
-        return this;
+        return this.speed;
     }
     public String setMarque(String marque){
         this.marque = marque;
-        return this;
+        return this.marque;
     }
     public String setModele(String modele){
         this.modele = modele;
-        return this;
+        return this.modele;
     }
     public boolean setIsTurnedOn(boolean isTurnedOn){
         this.isTurnedOn = isTurnedOn;
-        return this;
+        return this.isTurnedOn;
     }
     
     // Constructeurs

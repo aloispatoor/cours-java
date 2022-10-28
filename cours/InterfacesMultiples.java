@@ -2,7 +2,7 @@
  * Exemple sur les interfaces multiples
  */
 
-package cours_exercices.cours;
+package cours;
 
 // Interface Radio
     // Methode default nommee start

@@ -2,7 +2,7 @@
  * Exemple sur les atributs et les methodes static
  */
 
-package cours_exercices.cours;
+package cours;
 
 // Classe de test pour les attributs et methodes statiques
     // Proprietes

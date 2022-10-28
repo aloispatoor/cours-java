@@ -2,7 +2,7 @@
  * Exemple sur les methodes
  */
 
-package cours_exercices.cours;
+package cours;
 
 // Import de la classe BigInteger
 
