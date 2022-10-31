@@ -3,12 +3,14 @@
  */
 
 package cours;
+import java.util.ArrayList;
 
 // Classe principale
 public class IterationsCollections {
     public static void main(String[] args) {
         // LIST
         // Creation d'une liste de type List
+        
         
         // Utilisation de l'interface Iterator
         
